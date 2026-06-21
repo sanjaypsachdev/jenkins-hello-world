@@ -1,7 +1,7 @@
 # Springboot Hello World App
 This repository is used for Jenkins Training Demo
 
-### Build JAR
+### Clean and Build JAR
 ```
 mvn clean package -DskipTests=true
 ```
